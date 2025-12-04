@@ -1,0 +1,1 @@
+<?php error_reporting(E_ALL); ini_set('display_errors', 1); ?> <!DOCTYPE html> <html> <head> <title>Pendaftaran Siswa Baru | SMK Coding</title> </head> <body> <h2>Pendaftaran Siswa Baru</h2> <h3>SMK Coding</h3> <nav> <a href="form-daftar.php">Daftar Baru</a> | <a href="list-siswa.php">Pendaftar →</a> </nav> </body> </html>
